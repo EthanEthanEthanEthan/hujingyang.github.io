@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Angel&#39;s tears</title>
   
-  
+  <subtitle>Everything is nothing But self building</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Ethan</name>
     
   </author>
   
@@ -39,15 +39,56 @@
   </entry>
   
   <entry>
+    <title>这是测试的title</title>
+    <link href="http://yoursite.com/2018/11/01/New%20Document/"/>
+    <id>http://yoursite.com/2018/11/01/New Document/</id>
+    <published>2018-11-01T04:17:54.000Z</published>
+    <updated>2018-11-01T14:13:02.105Z</updated>
+    
+    <content type="html"><![CDATA[<p>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看<br><a href="https://www.jianshu.com/p/3a05351a37dc" target="_blank" rel="noopener">https://www.jianshu.com/p/3a05351a37dc</a><br>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看<br>如果想设置某一句的颜色或大小，只需用html语法写出来就行了</p><p>接下来就是见证奇迹的时刻</p><font color="#FF0000"> 我可以设置这一句的颜色哈哈 </font> <font size="6"> 我还可以设置这一句的大小嘻嘻 </font> <font size="5" color="#FF0000"> 我甚至可以设置这一句的颜色和大小呵呵</font> <center>这一行需要居中</center><p>作者：my_杨哥<br>链接：<a href="https://www.jianshu.com/p/3a05351a37dc" target="_blank" rel="noopener">https://www.jianshu.com/p/3a05351a37dc</a><br>來源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。<br>发撒法就爱看</p><p>发撒法就爱看<br><a id="more"></a><br>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看</p><p>发撒法就爱看</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;发撒法就爱看&lt;/p&gt;
+&lt;p&gt;发撒法就爱看&lt;/p&gt;
+&lt;p&gt;发撒法就爱看&lt;br&gt;&lt;a href=&quot;https://www.jianshu.com/p/3a05351a37dc&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.jianshu.com/p/3a05351a37dc&lt;/a&gt;&lt;br&gt;发撒法就爱看&lt;/p&gt;
+&lt;p&gt;发撒法就爱看&lt;/p&gt;
+&lt;p&gt;发撒法就爱看&lt;br&gt;如果想设置某一句的颜色或大小，只需用html语法写出来就行了&lt;/p&gt;
+&lt;p&gt;接下来就是见证奇迹的时刻&lt;/p&gt;
+&lt;font color=&quot;#FF0000&quot;&gt; 我可以设置这一句的颜色哈哈 &lt;/font&gt; 
+
+&lt;font size=&quot;6&quot;&gt; 我还可以设置这一句的大小嘻嘻 &lt;/font&gt; 
+
+&lt;font size=&quot;5&quot; color=&quot;#FF0000&quot;&gt; 我甚至可以设置这一句的颜色和大小呵呵&lt;/font&gt; 
+
+&lt;center&gt;这一行需要居中&lt;/center&gt;
+
+&lt;p&gt;作者：my_杨哥&lt;br&gt;链接：&lt;a href=&quot;https://www.jianshu.com/p/3a05351a37dc&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.jianshu.com/p/3a05351a37dc&lt;/a&gt;&lt;br&gt;來源：简书&lt;br&gt;简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。&lt;br&gt;发撒法就爱看&lt;/p&gt;
+&lt;p&gt;发撒法就爱看&lt;br&gt;
+    
+    </summary>
+    
+      <category term="分手就分手" scheme="http://yoursite.com/categories/%E5%88%86%E6%89%8B%E5%B0%B1%E5%88%86%E6%89%8B/"/>
+    
+    
+      <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+      <category term="标签2" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>博客名</title>
     <link href="http://yoursite.com/2018/11/01/%E5%8D%9A%E5%AE%A2%E5%90%8D/"/>
     <id>http://yoursite.com/2018/11/01/博客名/</id>
     <published>2018-11-01T04:17:54.000Z</published>
-    <updated>2018-11-01T04:17:54.701Z</updated>
+    <updated>2018-11-01T13:19:08.285Z</updated>
     
     <summary type="html">
     
     </summary>
+    
+      <category term="分类名" scheme="http://yoursite.com/categories/%E5%88%86%E7%B1%BB%E5%90%8D/"/>
     
     
   </entry>
